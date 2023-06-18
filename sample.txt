@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i love devops. its very interesting.
+=======
+i love devops.but its confusing.
+>>>>>>> developer2
